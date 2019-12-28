@@ -3,3 +3,4 @@ uname -a
 cat /etc/hosts
 uname -r
 date
+chronyc sources -v
