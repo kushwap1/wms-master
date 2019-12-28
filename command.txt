@@ -1,6 +1,5 @@
 echo "This is from command script...Hiiiiiiiiiiiiiiiiiiiiiiiiiii"
 uname -a
-cat /etc/hosts
 date
 echo "hello world11"
 echo "From uni host now--disable"
