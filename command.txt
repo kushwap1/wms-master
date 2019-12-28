@@ -1,5 +1,4 @@
 echo "This is from command script...Hiiiiiiiiiiiiiiiiiiiiiiiiiii"
 uname -a
 date
-echo "hello world11"
 echo "From uni host now--disable"
