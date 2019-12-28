@@ -4,4 +4,4 @@ cat /etc/hosts
 uname -r
 date
 chronyc sources -v
-echo "hello world"
+echo "hello world11"
