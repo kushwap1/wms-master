@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "now111111134343434111111111111111111111"
+echo "now111111134343434111111111111111111111"
 echo "This is my $name"
 sum1=$(($num1 + $num2))
 echo "$sum1"
