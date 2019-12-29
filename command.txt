@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "now"
 echo "This is my $name"
 sum1=$(($num1 + $num2))
 echo "$sum1"
