@@ -1,7 +1,8 @@
 #!/bin/bash
 echo "now11119999999999999911134343434111111111111111111111"
 echo "now111111134343434111111111111111111111"
-echo "This is my $name"
+echo "Th998988888888888888888888888888is is my $name"
 sum1=$(($num1 + $num2))
+echo "From node1"
 echo "$sum1"
 
