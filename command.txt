@@ -1,5 +1,6 @@
-echo "This is from command script...Hiiiiiiiiiiiiiiiiiiiiiiiiiii"
-uname -a
-uname -r
-date
-echo "From uni host now--disable"
+#!/bin/bash
+
+echo "This is my $name"
+sum1=$(($num1 + $num2))
+echo "$sum1"
+
